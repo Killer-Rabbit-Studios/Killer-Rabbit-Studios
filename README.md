@@ -6,9 +6,9 @@ we make scary stuff. Hopefully.
 
 A team of two from Canada.
 
-Noelle, a programmer and musician
+**Noelle**, a programmer and musician
 
-Aidan, an artist and writer
+**Aidan**, an artist and writer
 
 We work together to create cool stuff.
 
